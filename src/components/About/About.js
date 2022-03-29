@@ -3,7 +3,8 @@ import aboutImage from '../../images/about.jpg';
 
 const About = () => {
     return (
-        <div className='d-flex align-items-center row container mx-auto'>
+        <div className='d-flex align-items-center row container mx-auto my-4'>
+            <h1 className="text-center fw-bolder">About <span className="text-danger">Us</span></h1>
             <div className='col-12 col-lg-6'>
                 <img className='img-fluid' src={aboutImage}></img>
             </div>

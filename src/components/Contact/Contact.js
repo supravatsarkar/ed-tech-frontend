@@ -10,8 +10,8 @@ const Contact = () => {
                     <Container>
 
                         <div className="fw-bolder text-center">
-                            <h1 >Send Your Message Us</h1>
-                            <h5>Dont be shy, Send your message or quiries through below form, our expert team will help you ASAP.</h5>
+                            <h1 className="text-center fw-bolder">Send Your  <span className="text-danger">Message Us</span></h1>
+                            <h5 className="text-muted">Dont be shy, Send your message or quiries through below form, our expert team will help you ASAP.</h5>
                         </div>
                         <Form>
                             <Row xs={1} md={2} className="g-3">
