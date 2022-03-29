@@ -1,0 +1,11 @@
+.contact-section{
+    /* background-image: url(../../..//images//contact-us.jpg); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.contact-container{
+    background-color: rgba(0, 0, 0, 0.171);
+    /* opacity: 0.2; */
+}

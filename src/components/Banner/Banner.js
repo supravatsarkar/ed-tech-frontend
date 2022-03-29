@@ -9,7 +9,7 @@ const Banner = () => {
                 <button type="button" className='btn btn-danger btn-lg'>Free Trial</button>
             </div>
             <div className='d-none d-lg-block col-lg-5'>
-                <img className='w-75 rounded-circle' src={bannerImage}></img>
+                <img className='w-75 rounded-circle shadow-lg' src={bannerImage} alt="banner"></img>
             </div>
 
         </div>
