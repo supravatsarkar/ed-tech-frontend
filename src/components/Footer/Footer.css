@@ -1,0 +1,9 @@
+.footer-right-sec span{
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+}
+.footer-right-sec span:hover{
+    color:#f0413b;
+    cursor: pointer;
+}
