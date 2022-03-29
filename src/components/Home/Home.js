@@ -9,12 +9,12 @@ import About from '../About/About';
 const Home = () => {
     return (
         <div className=''>
-            <Header></Header>
+
             <Banner></Banner>
             <Services></Services>
             <About></About>
             <Contact></Contact>
-            <Footer></Footer>
+
         </div>
     );
 };
